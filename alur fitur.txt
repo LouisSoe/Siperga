@@ -1,0 +1,48 @@
+membuat laporan buku:mencari dengan cara get by asal/tgl terima atau bisa keduanya kemudian apabila asal null maka get where berdasarkan tgl di terima,apabila tgl null maka mencari berdasarkan asal,apabila mencari berdasarkan rak maka menampilkan semua data di rak,apabila menampilkan stok maka menampilkan semua data di stok dan dapat di input buku yang jumlahnya sesuai input  dan apabila kosong maka mencari semua data dan di export
+
+export riwayat:mencari berdasarkan tgl peminjaman atau bulan peminjaman atau  tahun
+apabila mencari berdasar tahun maka get where input tahun
+apabila mencari berdasarkan bulan maka get where input bulan
+apabila mencari berdasarkan hari maka get where input hari tersebut
+apabila ketiganya null maka mengambil semua data peminjaman
+apabila di suatu data berisi data null maka akan mengembalikan dengan alert tidak ada data
+
+
+ubah tombol status menjadi modal
+
+cara update data excel
+
+tombol menghapus semua data
+
+(tambahan dari pak dony)
+
+status kondisi buku yang ada di database V
+
+delete di hapus diganti edit dan detail aja V
+
+crud status semua dan di filter dengan select input yang akan digunakan di entry bagian mana : kurang kejelasan
+
+import excel siswa untuk peminjaman buku : tidak ada data valid 
+
+barcode buku V
+
+status buku rusak,hilang,bagus V
+
+bedakan tabel buku rusak dengan yang baik V
+
+pilih buku (by judul buku dan by nomer buku) : tidak jelas
+
+barcode buku nomer belakangnya harus ada nomer urut buku itu agar menjadi barcode baru V
+
+tambah buku tambah inputan jumlah buku untuk looping data buku V
+
+tombol naik kelas untuk siswa : tidak perlu
+
+filter kelas siswa nama bt checkbox : tidak perlu
+
+edit dan update buku by kode buku V
+
+pemilihan buku by modal tabel : kurang jelas
+
+
+
